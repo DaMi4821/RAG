@@ -1,4 +1,4 @@
-# 🇬🇧 RAG Chatbot for Government Data — Python + LangChain + Qdrant
+# RAG Chatbot for Government Data — Python + LangChain + Qdrant
 
 This project is a practical implementation of a **Retrieval-Augmented Generation (RAG)** system based on Large Language Models (LLMs), designed to operate on real public data. It consists of two main modules:
 
@@ -55,7 +55,7 @@ project/
 
 
 
-# 🇵🇱 RAG Chatbot dla danych rządowych — Python + LangChain + Qdrant
+# RAG Chatbot dla danych rządowych — Python + LangChain + Qdrant
 
 Ten projekt to praktyczna implementacja systemu **RAG (Retrieval-Augmented Generation)** opartego na dużych modelach językowych (LLM), który działa na rzeczywistych danych publicznych. Składa się z dwóch głównych modułów:
 
