@@ -1,0 +1,34 @@
+# 📦 Środowisko virtualne (nazwy mogą się różnić)
+.venv/
+env/
+venv/
+
+# 🔐 Sekrety i konfiguracja lokalna
+.env
+.env.*
+
+# 🧠 Pliki cache / build / py
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 📊 Notebooki i checkpointy
+.ipynb_checkpoints/
+
+# 💻 Mac / Linux / Windows artefakty
+.DS_Store
+Thumbs.db
+
+# 🐍 VSCode i inne IDE
+.vscode/
+.idea/
+*.swp
+
+# 🧪 Testy i raporty (jeśli używasz pytest, coverage)
+htmlcov/
+coverage.*
+.cache/
+
+# 🔧 Qdrant lokalny (jeśli kiedyś zainstalujesz jako embedded)
+qdrant_storage/
