@@ -1,0 +1,22 @@
+# --- core LangChain stack ---
+langchain==0.2.*
+langchain-openai==0.1.*
+langchain-community==0.2.*        # CharacterTextSplitter, RetrievalQA, itd.
+langchain-qdrant==0.1.*
+
+# --- OpenAI Python sdk ---
+openai==1.25.*
+
+# --- Vector store ---
+qdrant-client==1.9.*               # 1.9.x = stabilna gałąź z COSINE/Indexes API
+
+# --- Data handling ---
+pandas==2.2.*
+openpyxl==3.1.*                    # obsługa XLSX w Pandas
+
+# --- Utilities ---
+python-dotenv==1.0.*               # ładowanie .env
+tqdm==4.66.*                       # ładny progress-bar (przyda się, jeśli dodasz)
+
+# --- (opcjonalnie) interaktywne CLI / kolorowanie ---
+rich==13.7.*                       # ładne logi w terminalu
