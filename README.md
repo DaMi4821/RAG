@@ -52,7 +52,7 @@ project/
 ├── .env                        # (local) OpenAI key and config
 ├── requirements.txt
 └── README.md
-
+```
 
 
 # RAG Chatbot dla danych rządowych — Python + LangChain + Qdrant
@@ -109,4 +109,4 @@ project/
 ├── .env                        # (lokalny) klucz API
 ├── requirements.txt
 └── README.md
-
+```
